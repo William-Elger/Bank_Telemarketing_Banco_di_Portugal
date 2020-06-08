@@ -6,8 +6,8 @@ This is the result of a project I set myself to practise analysing data with Pyt
 The original data is publicly available for research here: https://www.kaggle.com/henriqueyamahata/bank-marketing
 
 This repositry contains the following:
-- PowerPoint presentation outlining the project and showcasing visualizations and findings
+- PowerPoint presentation showcasing my work (Updated Version now added)
 - Png files of the visualizations
 - Jupyter Notebook and .py files with my code
 - The original dataset (.csv)
-- The readme that came with the dataset (.txt)
+- The dataset readme (.txt)
